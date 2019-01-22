@@ -1,0 +1,7 @@
+nav {
+  background-color: #0099cc;
+}
+
+nav div:hover {
+  background-color: #0000CC;
+}
